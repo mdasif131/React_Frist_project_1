@@ -1,0 +1,8 @@
+*,::after,::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  @apply bg-[#0c2125] w-full  font-montserrat;
+}
